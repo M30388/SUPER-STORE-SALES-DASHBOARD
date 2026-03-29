@@ -1,0 +1,31 @@
+🛒 Super Store Sales Dashboard
+
+📌 Project Overview
+This project showcases an interactive Sales Dashboard built using Power BI to analyze business performance and generate actionable insights. The dashboard provides a comprehensive view of sales, profit, customer behavior, and product performance.
+
+🎯 Objective
+To transform raw sales data into meaningful insights that help in:
+Improving business decision-making
+Identifying profitable segments
+Understanding customer trends
+
+📊 Key Metrics
+💰 Total Sales: 1.57M+
+📈 Total Profit: 175K+
+📦 Total Quantity Sold: 22K+
+👥 Total Customers: 773
+🧾 Total Orders: 5901
+
+📈 Dashboard Features
+🔍 Region Filter – Analyze data across Central, East, South, and West
+📅 Monthly Trends – Sales & profit comparison over time
+🚚 Shipping Mode Analysis – Performance by delivery type
+💳 Payment Mode Insights – COD, Online & Card distribution
+🗂️ Category Analysis – Office Supplies, Technology, Furniture
+📦 Sub-Category Breakdown – Identify top-selling products
+🗺️ Geographical Visualization – Sales & profit by state
+
+🛠️ Tools & Technologies
+Power BI – Data visualization
+DAX – Data calculations
+Excel / CSV – Data source
